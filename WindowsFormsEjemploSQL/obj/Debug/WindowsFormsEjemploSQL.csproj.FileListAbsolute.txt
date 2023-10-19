@@ -1,0 +1,11 @@
+C:\Users\facu6\Downloads\Clases de Programacion\WindowsFormsEjemploSQL\WindowsFormsEjemploSQL\bin\Debug\WindowsFormsEjemploSQL.exe.config
+C:\Users\facu6\Downloads\Clases de Programacion\WindowsFormsEjemploSQL\WindowsFormsEjemploSQL\bin\Debug\WindowsFormsEjemploSQL.exe
+C:\Users\facu6\Downloads\Clases de Programacion\WindowsFormsEjemploSQL\WindowsFormsEjemploSQL\bin\Debug\WindowsFormsEjemploSQL.pdb
+C:\Users\facu6\Downloads\Clases de Programacion\WindowsFormsEjemploSQL\WindowsFormsEjemploSQL\obj\Debug\WindowsFormsEjemploSQL.csproj.AssemblyReference.cache
+C:\Users\facu6\Downloads\Clases de Programacion\WindowsFormsEjemploSQL\WindowsFormsEjemploSQL\obj\Debug\WindowsFormsEjemploSQL.csproj.SuggestedBindingRedirects.cache
+C:\Users\facu6\Downloads\Clases de Programacion\WindowsFormsEjemploSQL\WindowsFormsEjemploSQL\obj\Debug\WindowsFormsEjemploSQL.Form1.resources
+C:\Users\facu6\Downloads\Clases de Programacion\WindowsFormsEjemploSQL\WindowsFormsEjemploSQL\obj\Debug\WindowsFormsEjemploSQL.Properties.Resources.resources
+C:\Users\facu6\Downloads\Clases de Programacion\WindowsFormsEjemploSQL\WindowsFormsEjemploSQL\obj\Debug\WindowsFormsEjemploSQL.csproj.GenerateResource.cache
+C:\Users\facu6\Downloads\Clases de Programacion\WindowsFormsEjemploSQL\WindowsFormsEjemploSQL\obj\Debug\WindowsFormsEjemploSQL.csproj.CoreCompileInputs.cache
+C:\Users\facu6\Downloads\Clases de Programacion\WindowsFormsEjemploSQL\WindowsFormsEjemploSQL\obj\Debug\WindowsFormsEjemploSQL.exe
+C:\Users\facu6\Downloads\Clases de Programacion\WindowsFormsEjemploSQL\WindowsFormsEjemploSQL\obj\Debug\WindowsFormsEjemploSQL.pdb
